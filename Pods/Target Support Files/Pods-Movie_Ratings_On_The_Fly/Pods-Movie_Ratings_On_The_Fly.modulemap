@@ -1,0 +1,6 @@
+framework module Pods_Movie_Ratings_On_The_Fly {
+  umbrella header "Pods-Movie_Ratings_On_The_Fly-umbrella.h"
+
+  export *
+  module * { export * }
+}

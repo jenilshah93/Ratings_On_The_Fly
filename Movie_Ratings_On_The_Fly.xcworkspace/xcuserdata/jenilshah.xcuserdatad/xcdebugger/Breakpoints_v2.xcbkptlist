@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie_Ratings_On_The_Fly/SecondViewController.swift"
+            timestampString = "514940345.028121"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Ratings_On_The_Fly.SecondViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "Movie_Ratings_On_The_Fly"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jenilshah/Desktop/iOS%20Projects/Movie_Ratings_On_The_Fly/Movie_Ratings_On_The_Fly/SecondViewController.swift"
+                  timestampString = "514939141.498567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Ratings_On_The_Fly.SecondViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "Movie_Ratings_On_The_Fly"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jenilshah/Desktop/iOS%20Projects/Movie_Ratings_On_The_Fly/Movie_Ratings_On_The_Fly/SecondViewController.swift"
+                  timestampString = "514939141.503449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
